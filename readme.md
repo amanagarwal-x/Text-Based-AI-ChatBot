@@ -1,5 +1,12 @@
+# DocBot+ : An Elisa like Prolog Chatbot
+This is a chatbot called DocBot+ created using Prolog. It can converse and reply to general statements and queries, and can diagnose diseases like COVID and Cholera according to the user's symptoms.
+<br>
+<br>
+Feel free to explore and improve the code, also try to find out some hidden easter eggs!
+<br>
 ## Instructions to execute
->You can either run the chatbot from an editor like VS Code with the necessary Prolog extension (interpreter) installed, or by installing the SWI Prolog interpreter into your system. <br>
+>You can either run the chatbot from an editor like VS Code with the necessary Prolog extension (interpreter) installed, or by installing the SWI Prolog interpreter into your system. 
+<br>
 > Make sure you have SWI Prolog installed before following the mentioned steps.
 1. Extract the repo to a directory and open terminal in it.
 2. Enter the following command to start the prolog interpreter.
@@ -33,10 +40,13 @@ I'm doing great. Thanks for asking.
 Its Who, not what!
 
 |: I am sorry
-Please go on .
+Apologies are not necessary.
 
 |: how is the weather today
 Ask Google
+
+|: Remind me to make a doctor's appointment
+Sorry, I am not your assistant!
 
 |: are we friends
 I think you are lonely...
@@ -56,7 +66,6 @@ Pick a category
 3. Respiratory System
 4. Digestive System
 5. Psychological
-
 
 6. consult
 
@@ -116,14 +125,14 @@ Pick a category
 
 6. consult
 
-|: 11.
+|: 6.
 
 
-**********************Disease Diagnosis**********************
-
+**********************Diagnosis**********************
+Possible diseases:
 YOU HAVE HIGH CHANCES OF COVID
 
-Please get yourself checked.
+Please get yourself checked at a Hospital at the earliest
 
 ******************************************************************
 |:Bye
