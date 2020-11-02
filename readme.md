@@ -1,6 +1,8 @@
 # DocBot+ : An Elisa like Prolog Chatbot
 This is a chatbot called DocBot+ created using Prolog. It can converse and reply to general statements and queries, and can diagnose diseases like COVID and Cholera according to the user's symptoms.
 <br>
+This project is a part of my CS312 Artificial Intelligence Course.
+<br>
 <br>
 Feel free to explore and improve the code, also try to find out some hidden easter eggs!
 <br>
